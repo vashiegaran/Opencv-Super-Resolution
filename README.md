@@ -2,6 +2,8 @@
 
 This project is about utilizing four pre-trained super resolution models which are listed below to  perform super resolution with OpenCV in images
 
+Google Drive to download the models:https://drive.google.com/drive/folders/1fRoOmdEE0K5IgP3kw80qWhHb5M3664VB?usp=sharing
+
 1. EDSR_x4.pb: Model from the Enhanced Deep Residual Networks for Single Image Super-Resolution paper — increases the input image resolution by 4x
 
 2. ESPCN_x4.pb: Super resolution model from Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network — increases resolution by 4x
