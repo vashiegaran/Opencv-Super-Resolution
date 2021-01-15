@@ -16,7 +16,7 @@ To run this in command line:
 
 --image: The path to the input image that we want to apply super resolution to
 
-Example:python super_res_image.py --model models/EDSR_x4.pb --image examples/adrian.png
+Example:python super_res_image.py --model models/EDSR_x4.pb --image examples/zebra.png
 
 More details about the Opencv libraries and explanation about the project are in the pdf file.
 
