@@ -21,4 +21,6 @@ To run this in command line:
 Example:python super_res_image.py --model models/EDSR_x4.pb --image examples/zebra.png
 
 More details about the Opencv libraries and explanation about the project are in the pdf file.
+More about the documentation of dnn_superres can be found in the official documentation
+https://docs.opencv.org/master/d8/d11/classcv_1_1dnn__superres_1_1DnnSuperResImpl.html
 
