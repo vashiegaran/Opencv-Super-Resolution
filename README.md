@@ -11,8 +11,12 @@ This project is about utilizing four pre-trained super resolution models which a
 4. LapSRN_x8.pb: Super resolution model from Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks — increases image resolution by 8x
 
 To run this in command line:
+
 --model: The path to the input OpenCV super resolution model
+
 --image: The path to the input image that we want to apply super resolution to
 
-More details about the Opencv libraries are in the pdf file.
+Example:python super_res_image.py --model models/EDSR_x4.pb --image examples/adrian.png
+
+More details about the Opencv libraries and explanation about the project are in the pdf file.
 
